@@ -1,0 +1,7 @@
+{
+  "events": [
+    {"name": "Qatar_sprint", "type": "sprint"},
+    {"name": "Qatar_race", "type": "race"},
+    {"name": "AbuDhabi_race", "type": "race"}
+  ]
+}
